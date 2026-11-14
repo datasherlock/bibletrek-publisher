@@ -1,0 +1,21 @@
+{
+  "name": "bibletrek",
+  "displayName": "Bible Trek Publisher",
+  "version": "2.0.0",
+  "description": "End-to-end publishing, design system, wpautop-safe Avada layouts, and Yoast SEO workflow for bibletrek4kids.com — covering Bible Workshop Series, Interactive Workshops, Printable Craftivities, Object Lessons, and Sunday School Games.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "Jerome Rajan (@datasherlock)",
+    "url": "https://github.com/datasherlock"
+  },
+  "homepage": "https://bibletrek4kids.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datasherlock/bibletrek-publisher.git"
+  },
+  "suggestedPrompts": [
+    "Publish this new Bible Trek workshop folder from Google Drive to bibletrek4kids.com",
+    "Create and publish a new Printable Craftivity post from this PDF and link it on the Craftivity hub",
+    "Publish this new Object Lesson or Sunday School Game following all Bible Trek SEO and design guidelines"
+  ]
+}

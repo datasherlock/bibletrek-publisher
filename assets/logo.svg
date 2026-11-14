@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Bible Trek Publisher">
+  <rect x="24" y="24" width="208" height="208" rx="44" fill="#3b220c" stroke="#86ba1f" stroke-width="8"/>
+  <path d="M52 184 L106 110 L138 150 L168 116 L204 184 Z" fill="#427200"/>
+  <path d="M106 110 L122 130 L106 136 L92 129 Z" fill="#fbf6ef"/>
+  <circle cx="176" cy="82" r="18" fill="#f9a513"/>
+  <path d="M98 184 C104 162, 128 158, 134 142" fill="none" stroke="#fbf6ef" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <rect x="64" y="182" width="128" height="14" rx="7" fill="#86ba1f"/>
+</svg>
