@@ -40,7 +40,7 @@ Teachers and Christian parents rarely search internal lesson titles alone (e.g.,
 
 | Page Role | Page ID | Live URL | Notes |
 | :--- | :--- | :--- | :--- |
-| **Homepage** | **`2038`** | `https://bibletrek4kids.com/` | Keep Slider Container 1 intact (`margin_bottom_small="0px"`). Series grid is `.bt-hm-grid4` inside Container 2. **100% evergreen—no counts!** |
+| **Homepage** | **`2038`** | `https://bibletrek4kids.com/` | Keep Slider Container 1 intact (`margin_bottom_small="0px"`), and preserve `#SR7_20_1-40-0` CSS in Container 2 `<style>` (`PixarKatieClimbing.png`, Media ID `4512`). Series grid is `.bt-hm-grid4` inside Container 2. **100% evergreen—no counts!** |
 | **Instagram Link-in-Bio Hub** | **`4489`** | `https://bibletrek4kids.com/start/` | Mobile-first GA4-tracked social landing page for `@bibletrek4kids`. |
 | **Hindi & English Hub** | **`4490`** | `https://bibletrek4kids.com/hindi-bible-crafts-for-kids/` | Update `.bt-hi-grid2` whenever a new bilingual `(ENG \| HIN)` Workshop is added; `.bt-hi-grid3` for crafts. |
 | **Workshops Library** | **`3324`** | `https://bibletrek4kids.com/workshops/` | Master directory of all Workshop Series—add a Series card whenever launching a new Series. |
