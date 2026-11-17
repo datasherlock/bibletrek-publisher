@@ -64,3 +64,13 @@ Teachers and Christian parents rarely search internal lesson titles alone (e.g.,
 | **Salvation** | **`2677`** | `https://bibletrek4kids.com/salvation/` |
 | **Giving** | **`3207`** | `https://bibletrek4kids.com/giving/` |
 | **Thanksgiving** | **`3178`** | `https://bibletrek4kids.com/thanksgiving/` |
+
+---
+
+## 5. Active Custom Site Tweaks Plugin (`bibletrek-site-tweaks`)
+
+* **Source Path:** `wp-plugin/bibletrek-site-tweaks/bibletrek-site-tweaks.php`
+* **Installed Slug on `bibletrek4kids.com`:** `bibletrek-site-tweaks/bibletrek-site-tweaks.php` (deployed via `wordpress_mcp` `wpcom/plugin-upload-request` -> `wpcom/plugin-upload` with `overwrite: true` -> `wpcom/plugin-activate`)
+* **What It Controls:**
+  1. Filters Avada's frontend `option_fusion_options` (`post_meta_author = '0'`) so `"By Jerome Rajan |"` is never output on single posts or category/blog archives.
+  2. Outputs `#bibletrek-site-tweaks-css` in `wp_head` to cleanly left-align all comment form checkboxes (`#respond p.comment-form-cookies-consent` and `#respond p.comment-subscription-form`, overriding Avada's input `min-width`).
